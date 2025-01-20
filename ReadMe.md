@@ -1,10 +1,10 @@
-# 💫 About Me:
+# About Me:
 Eu sou estudante de Back-end<br>
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joao-victor-barbosa14&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joao-victor-barbosa14&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-victor-barbosa14&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
